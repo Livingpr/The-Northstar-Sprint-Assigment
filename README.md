@@ -71,7 +71,8 @@ See `requirements.txt` for exact versions.
 - `orders.csv` - Customer orders with status and return info
 - `stock.csv` - Product inventory with restock dates
 
-## Author 
+## Author
+
 Created for Northstar Retail support deflection MVP.
 
 ## License
