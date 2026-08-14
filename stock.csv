@@ -1,0 +1,13 @@
+product_id,product_name,category,quantity_in_stock,reorder_threshold,restock_date
+P-2001,Wireless Earbuds,Electronics,42,15,2026-08-20
+P-2002,Running Shoes - Size 42,Footwear,8,10,2026-08-16
+P-2003,Blender 1.5L,Home Appliances,0,10,2026-08-22
+P-2004,Bluetooth Speaker,Electronics,25,15,2026-08-18
+P-2005,Office Chair,Furniture,3,5,2026-08-15
+P-2006,Laptop Backpack,Accessories,60,20,2026-08-25
+P-2007,Smart Watch,Electronics,12,15,2026-08-17
+P-2008,Table Lamp,Home Decor,30,10,2026-08-19
+P-2009,Yoga Mat,Fitness,18,10,2026-08-21
+P-2010,Coffee Maker,Home Appliances,5,8,2026-08-16
+P-2011,Gaming Mouse,Electronics,0,15,2026-08-23
+P-2012,Bookshelf,Furniture,7,5,2026-08-20

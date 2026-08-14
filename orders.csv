@@ -1,0 +1,13 @@
+order_id,customer_name,order_date,item,quantity,order_status,return_status,return_reason,refund_amount
+NS-1001,Grace Wanjiru,2026-08-01,Wireless Earbuds,1,Delivered,Not Requested,,0
+NS-1002,Kevin Otieno,2026-08-02,Running Shoes - Size 42,1,Shipped,Not Requested,,0
+NS-1003,Amina Yusuf,2026-08-02,Blender 1.5L,1,Processing,Not Requested,,0
+NS-1004,Brian Kiprotich,2026-08-03,Bluetooth Speaker,2,Delivered,Requested,Item arrived damaged,45.00
+NS-1005,Faith Chebet,2026-08-03,Office Chair,1,Delivered,Approved,Wrong item sent,120.00
+NS-1006,Daniel Mwangi,2026-08-04,Laptop Backpack,1,Cancelled,Not Requested,,0
+NS-1007,Purity Nyambura,2026-08-04,Smart Watch,1,Delivered,Not Requested,,0
+NS-1008,Samuel Kiptoo,2026-08-05,Table Lamp,3,Shipped,Not Requested,,0
+NS-1009,Esther Achieng,2026-08-05,Yoga Mat,1,Delivered,Refunded,No longer needed,18.50
+NS-1010,John Njoroge,2026-08-06,Coffee Maker,1,Processing,Not Requested,,0
+NS-1011,Mercy Wambui,2026-08-06,Gaming Mouse,1,Delivered,Requested,Defective on arrival,25.00
+NS-1012,Peter Omondi,2026-08-07,Bookshelf,1,Shipped,Not Requested,,0
