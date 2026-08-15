@@ -1,0 +1,26 @@
+hash	author_name	author_email	date	message	file_changed	insertions	deletions
+79f29ba	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-16 00:36:22 +0300	Go-live rediness note	golive_readiness_note.pdf	74	0
+b81d999	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-15 23:46:40 +0300	Delete PROJECT REPORT GROUP 62.docx	PROJECT REPORT GROUP 62.docx	-	-
+834495f	joyaudrey856-sudo	joyaudrey856@gmail.com	2026-08-15 23:02:43 +0300	Add files via upload	PROJECT REPORT GROUP 62.pdf	-	-
+1158a06	joyaudrey856-sudo	joyaudrey856@gmail.com	2026-08-15 16:54:02 +0300	Add files via upload	PROJECT REPORT GROUP 62.docx	-	-
+0a2960e	joyaudrey856-sudo	joyaudrey856@gmail.com	2026-08-15 13:37:41 +0300	Add files via upload	Northstar-Sprint-Strategy-Deck.pdf	-	-
+66d9be5	Nahom	nahomtking@gmail.com	2026-08-15 07:55:52 +0300	docs: correct team charter content and team assignments	docs/Team_Charter_Final.md	12	13
+026c191	Nahom	nahomtking@gmail.com	2026-08-14 23:18:20 +0300	docs: replace team charter and project board with corrected versions	docs/Project_Board.csv	0	11
+026c191	Nahom	nahomtking@gmail.com	2026-08-14 23:18:20 +0300	docs: replace team charter and project board with corrected versions	docs/Project_Board_Simple.csv	11	0
+026c191	Nahom	nahomtking@gmail.com	2026-08-14 23:18:20 +0300	docs: replace team charter and project board with corrected versions	docs/{Team_Charter.md => Team_Charter_Final.md}	0	0
+6784afe	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-14 23:09:04 +0300	Fix formatting of 'LIVE DEMO LINK' section	README.md	1	1
+bd0cc9b	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-14 23:08:16 +0300	Add live demo link to README	README.md	3	0
+819f162	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-14 22:34:02 +0300	Added Dev Container Folder	.devcontainer/devcontainer.json	33	0
+80fa28e	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-14 22:30:02 +0300	Update requirements to remove version constraints	requirements.txt	2	2
+52b287d	Nahom	nahomtking@gmail.com	2026-08-14 18:14:48 +0300	docs: add project board with tasks,owners and status	docs/Project_Board.csv	11	0
+c51eda0	Nahom	nahomtking@gmail.com	2026-08-14 11:30:06 +0300	docs: convert team charter to markdown for repository readability	docs/Team_Charter.docx	-	-
+c51eda0	Nahom	nahomtking@gmail.com	2026-08-14 11:30:06 +0300	docs: convert team charter to markdown for repository readability	docs/Team_Charter.md	236	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	.gitignore	39	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	README.md	79	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	app.py	338	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	orders.csv	13	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	requirements.txt	2	0
+4618337	Hesborn Ombeka	hesbornoombeka@gmail.com	2026-08-14 11:15:48 +0300	Initial commit	stock.csv	13	0
+c12e421	Nahom	nahomtking@gmail.com	2026-08-14 11:05:59 +0300	docs: add team charter - establishes sprint rules and responsibilities	docs/Team_Charter.docx	-	-
+177cfe5	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-13 04:38:25 +0300	Initial commit	LICENSE	21	0
+177cfe5	Livingpr	163169681+Livingpr@users.noreply.github.com	2026-08-13 04:38:25 +0300	Initial commit	README.md	2	0
