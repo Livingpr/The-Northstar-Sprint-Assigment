@@ -14,10 +14,9 @@ Assessment requirement: the MVP must reduce manual ticket handling for at least 
 | Seat | Name | Primary board responsibility | Required collaboration |
 | :---- | :---- | :---- | :---- |
 | Member 1 | Nahom Tesfa | Team Charter and Project Board Setup | Coordinate charter decisions, maintain board discipline, and compile traceability evidence for final handoff readiness. |
-| Member 2 | Eunice Livingproof | Repo / Workspace Creation, Codebase Implementation | Establish shared workspace and communicate the technical/product approach. |
+| Member 2 | Eunice Livingproof | Repo / Workspace Creation, Codebase Implementation, Audit Log Compilation, Go-Live 1-Pager | Establish shared workspace and communicate the technical/product approach. |
 | Member 3 | Hesborn Ombeka | Streamlit Implementation, Dashboard Implementation  | Build the core implementation and working application. |
 | Member 4 | Masombo Audrey | Strategy Deck, Project Report | Build the team strategy and document the project outcome. |
-| Member 5 | Faith Musyoka |  Audit Log Compilation, Go-Live 1-Pager | Manage audit log integrity and ensure the Go-Live note accurately reflects final delivery status. |
 
 # **3\. Project Mission & Success Criteria**
 
@@ -38,7 +37,7 @@ The team has agreed to retain the following project-board structure:
 
 Selected ticket categories / final MVP scope: Order status, Returns/refunds, and Stock availability
 
-Technology approach: \[INSERT THE TEAM'S AGREED TECHNOLOGY STACK / ARCHITECTURE\]
+Technology approach: Python
 
 Important scope rule: the board contains exactly 10 tasks. Any work discovered during execution that is necessary but not represented by a task must be handled according to the team's change-control rule below rather than silently creating large, untraceable work.
 
@@ -125,11 +124,11 @@ By signing/confirming below, each member agrees to follow the communication plan
 
 | Member | Confirmation / Signature | Date |
 | :---- | :---- | :---- |
-| Nahom Tesfa | \[Confirm\] | \[Date\] |
-| Eunice Livingproof | \[Confirm\] | \[Date\] |
-| Hesborn Ombeka | \[Confirm\] | \[Date\] |
-| Masombo Audrey | \[Confirm\] | \[Date\] |
-| Faith Musyoka | \[Confirm\] | \[Date\] |
+| Nahom Tesfa | \[Confirm\] | 13/8/2026 |
+| Eunice Livingproof | \[Confirm\] | 13/8/2026 |
+| Hesborn Ombeka | \[Confirm\] | 13/8/2026 |
+| Masombo Audrey | \[Confirm\] | 13/8/2026 |
+| Faith Musyoka | \[Confirm\] | 13/8/2026 |
 
 # **7\. Board Status Definitions**
 
@@ -157,8 +156,8 @@ Each Definition of Done is a single, checkable sentence. A task is not marked "D
 | 6 | Streamlit Implementation | Member 3 | High | 2h | Backlog | Streamlit app runs locally and renders a working input form for at least one ticket category. |
 | 7 | Dashboard Implementation | Member 3 | Medium | 2h | Backlog | Self-serve dashboard displays working views for order status, returns, and stock availability. |
 | 8 | Project Report | Member 4 | Low | 2h | Backlog | Draft report covering problem, approach, and results is complete and ready for review. |
-| 9 | Audit Log Compilation | Member 5 | High | 1.5h | Backlog | Commit/edit history and board timestamps exported into a single audit file with no unexplained gaps. |
-| 10 | Go-Live 1-Pager | Member 5 | High | 1h | Backlog | One page listing what works, what is known-broken, and handoff steps is complete. |
+| 9 | Audit Log Compilation | Member 2 | High | 1.5h | Backlog | Commit/edit history and board timestamps exported into a single audit file with no unexplained gaps. |
+| 10 | Go-Live 1-Pager | Member 2 | High | 1h | Backlog | One page listing what works, what is known-broken, and handoff steps is complete. |
 
 # **10\. Task-by-Task Execution & Evidence Requirements**
 
@@ -228,9 +227,9 @@ The assessment states that no board task may represent more than four hours of w
 | Member | Signature / confirmation | Date |
 | :---- | :---- | :---- |
 | Nahom Tesfa | Nahom T. | 13/8/2026 |
-| Eunice Livingproof | \[Confirm\] | \[Date\] |
-| Hesborn Ombeka | \[Confirm\] | \[Date\] |
-| Masombo Audrey | \[Confirm\] | \[Date\] |
+| Eunice Livingproof | \[Confirm\] | 13/8/2026 |
+| Hesborn Ombeka | \[Confirm\] | 13/8/2026 |
+| Masombo Audrey | \[Confirm\] | 13/8/2026 |
 | Faith Musyoka | \[Confirm\] | \[Date\] |
 
 # 
