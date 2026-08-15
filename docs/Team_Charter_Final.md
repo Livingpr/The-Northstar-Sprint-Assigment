@@ -125,10 +125,9 @@ By signing/confirming below, each member agrees to follow the communication plan
 | Member | Confirmation / Signature | Date |
 | :---- | :---- | :---- |
 | Nahom Tesfa | \[Confirm\] | 13/8/2026 |
-| Eunice Livingproof | \[Confirm\] | 13/8/2026 |
+| Eunice Livingproof | E.L | 13/8/2026 |
 | Hesborn Ombeka | \[Confirm\] | 13/8/2026 |
 | Masombo Audrey | \[Confirm\] | 13/8/2026 |
-| Faith Musyoka | \[Confirm\] | 13/8/2026 |
 
 # **7\. Board Status Definitions**
 
@@ -227,9 +226,9 @@ The assessment states that no board task may represent more than four hours of w
 | Member | Signature / confirmation | Date |
 | :---- | :---- | :---- |
 | Nahom Tesfa | Nahom T. | 13/8/2026 |
-| Eunice Livingproof | \[Confirm\] | 13/8/2026 |
+| Eunice Livingproof | E.L | 13/8/2026 |
 | Hesborn Ombeka | \[Confirm\] | 13/8/2026 |
 | Masombo Audrey | \[Confirm\] | 13/8/2026 |
-| Faith Musyoka | \[Confirm\] | \[Date\] |
+
 
 # 
