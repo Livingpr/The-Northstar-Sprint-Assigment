@@ -227,7 +227,7 @@ The assessment states that no board task may represent more than four hours of w
 | :---- | :---- | :---- |
 | Nahom Tesfa | Nahom T. | 13/8/2026 |
 | Eunice Livingproof | E.L | 13/8/2026 |
-| Hesborn Ombeka | \[Confirm\] | 13/8/2026 |
+| Hesborn Ombeka | H.O| 13/8/2026 |
 | Masombo Audrey | \[Confirm\] | 13/8/2026 |
 
 
